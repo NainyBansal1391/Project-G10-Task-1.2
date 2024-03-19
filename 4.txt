@@ -1,2 +1,7 @@
+
 hello this is jatin
 writing SCM viva 
+
+Hello this is jatin vaid 
+We are creating conflict ...............on activity 
+
